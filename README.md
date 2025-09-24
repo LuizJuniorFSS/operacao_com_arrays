@@ -232,7 +232,3 @@ Sistema de Operações com Arrays - Versão 1.0
 ## 📄 Licença
 
 Este projeto é de uso educacional e está disponível para fins de aprendizado.
-
----
-
-**Nota**: Este programa foi desenvolvido seguindo as melhores práticas de programação Java, incluindo tratamento de exceções, documentação adequada e interface de usuário intuitiva.
