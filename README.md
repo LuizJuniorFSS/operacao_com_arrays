@@ -183,9 +183,9 @@ operacao_com_arrays/
 
 ### 🖥️ Execução no Terminal
 
-![Screenshot 1](https://raw.githubusercontent.com/SEU_USUARIO/operacao_com_arrays/master/screenshot%20(1).png)
+![Screenshot 1](https://raw.githubusercontent.com/LuizJuniorFSS/operacao_com_arrays/master/screenshot%20(1).png)
 
-![Screenshot 2](https://raw.githubusercontent.com/SEU_USUARIO/operacao_com_arrays/master/screenshot%20(2).png)
+![Screenshot 2](https://raw.githubusercontent.com/LuizJuniorFSS/operacao_com_arrays/master/screenshot%20(2).png)
 
 ## 🧪 Exemplos de Uso
 
